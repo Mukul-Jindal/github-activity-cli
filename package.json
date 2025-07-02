@@ -1,0 +1,12 @@
+{
+  "name": "github_user_activity_cli",
+  "version": "1.0.0",
+  "description": "Learning project for backend development",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mukul Jindal",
+  "license": "ISC"
+}
