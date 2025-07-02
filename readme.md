@@ -19,9 +19,4 @@ run the code
   node index.js
 ```
 
-/**
- * This function performs the specified operation.
- *
- * Note:
- * - Ensure that Node.js is installed on your system before running this code.
- */
+* Note: Ensure that Node.js is installed on your system before running this code.
